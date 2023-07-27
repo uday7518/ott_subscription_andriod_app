@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89562223082",
+    "project_id": "ott-manager-9139c",
+    "storage_bucket": "ott-manager-9139c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89562223082:android:49af37251fd15fb92de293",
+        "android_client_info": {
+          "package_name": "com.example.ottmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89562223082-1pgol7c4914ao9203bkf54gbm7c6mnka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfWjfNdMNgjQ4l6f9BsYtlYneqmoTcuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89562223082-1pgol7c4914ao9203bkf54gbm7c6mnka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
